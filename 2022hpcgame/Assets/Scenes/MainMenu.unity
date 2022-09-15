@@ -1883,7 +1883,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1687371898
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2043,7 +2043,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u2022 Drag Up/Down and Left/Right to \n  move the crow.\n\n\u2022 Collect
     the pebbles placed on \n  the ground in order to quench \n  the thirst of crow.\n\n\u2022
-    Do not pick the obstacle as you \n  will lose the score.\n\n\u2022 Complete the
+    Do not pick the obstacle as you \n  will lose pebbles.\n\n\u2022 Complete the
     level with the \n  maximum pebbles as possible.\n\n\u2022 Proceed to next round."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
